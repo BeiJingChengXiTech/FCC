@@ -1,70 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T11:20:12.356Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zHTH4soG5EaXiA-ZEZd6" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T11:47:53.839Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="AmwVgvcw6cAYB1JIwX4N" version="21.6.5" type="github">
   <diagram name="第 1 页" id="ELpzqg5P8hmat1W1svWB">
     <mxGraphModel dx="1332" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="79IT23vPnyAQfjOJ28bA-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-8" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;法律大全 VectorDB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1152.5" y="860" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C7EFF;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="900" width="210" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-17" value="民法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-18" value="行政法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-19" value="经济法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="1025" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-20" value="......" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="1077" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-50" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#1C7EFF;" vertex="1" parent="1">
           <mxGeometry x="530" y="290" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="520" width="250" height="240" as="geometry" />
+        <mxCell id="79IT23vPnyAQfjOJ28bA-2" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=1;strokeColor=#1C7EFF;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="520" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1102" y="547" width="140" height="190" as="geometry" />
+          <mxGeometry x="1090" y="547" width="160" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-1" value="咨询人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-1" value="咨询人" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="140" y="585" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-4" value="法查查法律大语言模型&amp;nbsp; LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="480" width="180" height="40" as="geometry" />
+        <mxCell id="79IT23vPnyAQfjOJ28bA-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;法查查法律大语言模型&amp;nbsp; LLM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="480" width="235" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-5" value="chatGLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-5" value="ChatGLM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1110" y="560" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-6" value="Llama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-6" value="Llama" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1110" y="625" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-7" value="Bloomz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-7" value="Bloomz" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1110" y="690" width="125" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-8" value="法律大全 VectorDB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="900" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-9" value="法&lt;br&gt;律&lt;br&gt;微&lt;br&gt;调&lt;br&gt;指&lt;br&gt;令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="560" width="50" height="160" as="geometry" />
+        <mxCell id="79IT23vPnyAQfjOJ28bA-9" value="法&lt;br&gt;律&lt;br&gt;微&lt;br&gt;调&lt;br&gt;指&lt;br&gt;令" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="560" width="50" height="160" as="geometry" />
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79IT23vPnyAQfjOJ28bA-7" target="79IT23vPnyAQfjOJ28bA-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-12" value="或" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-12" value="或" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="590" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-13" value="或" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-13" value="或" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="655" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="940" width="210" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-17" value="民法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="960" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-18" value="行政法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="1010" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-19" value="经济法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="1065" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-20" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="1117" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-21" value="法查查服务系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;法查查服务系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#1C7EFF;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="530" y="530" width="246" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-22" value="律师数据库 Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-22" value="律师数据库 Mysql" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="563" y="320" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-23" value="判决书数据库 Mongo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-23" value="判决书数据库 Mongo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="563" y="390" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.016;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
@@ -73,9 +73,9 @@
             <mxPoint x="1062" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-34" value="2、“我要离婚，财产怎么分割，涉及哪些法律？”" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-33">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-34" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;2、“我要离婚，财产怎么分割” 涉及哪些法律？&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-33">
           <mxGeometry x="0.1094" relative="1" as="geometry">
-            <mxPoint x="-5" y="-20" as="offset" />
+            <mxPoint x="-15" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -84,9 +84,9 @@
             <mxPoint x="776" y="597.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-36" value="3、婚姻法、财产法....." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-35">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-36" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;3、婚姻法、财产法.....&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-35">
           <mxGeometry x="-0.0965" y="2" relative="1" as="geometry">
-            <mxPoint x="-62" y="-19" as="offset" />
+            <mxPoint x="-80" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.447;exitY=1.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.014;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79IT23vPnyAQfjOJ28bA-21" target="79IT23vPnyAQfjOJ28bA-16">
@@ -94,13 +94,13 @@
             <mxPoint x="820" y="860" as="sourcePoint" />
             <mxPoint x="870" y="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="1070" />
+              <mxPoint x="640" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-38" value="4、矢量化数据库获取&amp;nbsp; “婚姻法、财产法...”相关法律条款.." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-37">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-38" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;4、矢量化数据库匹配“婚姻法、财产法...”相关法律条款..&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-37">
           <mxGeometry x="0.2815" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="93" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.01;exitY=0.323;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.642;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79IT23vPnyAQfjOJ28bA-16" target="79IT23vPnyAQfjOJ28bA-21">
@@ -108,13 +108,13 @@
             <mxPoint x="770" y="790" as="sourcePoint" />
             <mxPoint x="820" y="740" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="690" y="1020" />
+              <mxPoint x="690" y="980" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-40" value="5、返回 “婚姻法、财产法...”相关法律条款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-39">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-40" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;5、返回 “婚姻法、财产法...”相关法律条款&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-39">
           <mxGeometry x="-0.4621" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-43" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="79IT23vPnyAQfjOJ28bA-2">
@@ -123,9 +123,9 @@
             <mxPoint x="820" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-45" value="6、权威法律条款+离婚财产分割事实诉求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-44">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-45" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;6、权威法律条款+离婚财产分割事实诉求&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-44">
           <mxGeometry x="-0.1448" y="1" relative="1" as="geometry">
-            <mxPoint x="-4" y="-14" as="offset" />
+            <mxPoint x="-2" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.004;exitY=0.66;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79IT23vPnyAQfjOJ28bA-2" target="79IT23vPnyAQfjOJ28bA-21">
@@ -134,9 +134,9 @@
             <mxPoint x="920" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-47" value="7、处理办法建议，并建议找什么类型律师" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-46">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-47" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;7、处理办法建议，并建议找什么类型律师&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-46">
           <mxGeometry x="0.1321" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.428;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="79IT23vPnyAQfjOJ28bA-23">
@@ -150,7 +150,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-51" value="法律中心化数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-51" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;法律中心化数据库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="580" y="250" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.016;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="79IT23vPnyAQfjOJ28bA-21" target="79IT23vPnyAQfjOJ28bA-1">
@@ -159,9 +159,9 @@
             <mxPoint x="290" y="684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-54" value="9、建议处理方案及相关法律依据、以往案例参考、推荐律师、" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-52">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-54" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;9、建议方案及法律依据、以往案例参考、推荐律师&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-52">
           <mxGeometry x="0.0319" y="2" relative="1" as="geometry">
-            <mxPoint y="-16" as="offset" />
+            <mxPoint x="10" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="79IT23vPnyAQfjOJ28bA-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="79IT23vPnyAQfjOJ28bA-21">
@@ -170,10 +170,13 @@
             <mxPoint x="240" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="79IT23vPnyAQfjOJ28bA-56" value="1、咨询人：我要离婚，财产怎么分割？" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-55">
+        <mxCell id="79IT23vPnyAQfjOJ28bA-56" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;1、咨询人：我要离婚，财产怎么分割？&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="79IT23vPnyAQfjOJ28bA-55">
           <mxGeometry x="0.0176" y="1" relative="1" as="geometry">
-            <mxPoint x="-13" y="-19" as="offset" />
+            <mxPoint x="-23" y="-15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="79IT23vPnyAQfjOJ28bA-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1254" y="620" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
